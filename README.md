@@ -1,3 +1,6 @@
+<img width="106" alt="image" src="https://github.com/user-attachments/assets/8bc594ea-eb59-443d-8a5e-ad024c91afb6" />
+
+
 # CFR Mali Violent Attacks Shiny App
 
 Welcome to the **CFR Mali Violent Attacks Data Shiny App**! This interactive tool allows users to explore the complex patterns of violence in Mali from 1989 to 2023. Using powerful AI-driven insights and RStudio's Shiny framework, this app visualizes the changing dynamics of violent conflict in Mali, from state-based violence to non-state actors and one-sided violence.
